@@ -13,7 +13,7 @@ h1 {
 
 .btn-bar {
     display: inline-block;
-    border: 1px solid #b0b0b0;
+    border: 1px solid #a0a0a0;
 }
 
 .line {
@@ -35,7 +35,7 @@ a {
     background-color: white;
     text-align: center;
     padding: 10px;
-    color: #b0b0b0;
+    color: #a0a0a0;
     text-decoration: underline;
     font-family: "Raleway", Arial, sans-serif;
     font-size: 14px;
@@ -67,7 +67,7 @@ a:hover {
 
 button {
     display: inline-block;
-    border: 1px solid #b0b0b0;
+    border: 1px solid #a0a0a0;
     padding: 0;
 }
 
