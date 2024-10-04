@@ -60,9 +60,9 @@ a:hover {
 
 .center {
     margin: auto;
-    position: relative; /* Changed to relative */
+    position: relative;
     left: 50%;
-    transform: translate(-50%); /* Change to translateX for better clarity */
+    transform: translate(-50%);
 }
 
 button {
